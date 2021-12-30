@@ -14,8 +14,23 @@ shown up on-time for our almost-daily meetings and catch-up sessions.  You
 never waited to seek for and provide assistance to one another, always jumping
 on to Discord calls as soon as time permits.  The diligence that we had
 exhibited towards our common goals and aspirations for this project has paid
-off, earning our team First Place in our cohort of around 120 people (roughly
-40 teams).
+off, earning our team First Place in our cohort of around 120 people.
+
+## Prize
+This project has earned recognition in the SOFTENG 206 course in Semester 2,
+2021 by gaining First Place.
+
+In this year, around 120 students were divided into groups of three (with one
+group having two members), resulting in roughly 40 teams.  Each team were to go
+go through two "beta" stages and multiple Q&A sessions with the lecturers
+acting as clients, before the final submission. Teams can opt for the
+competition, which involved pitching to an external client, the course staff
+and students.  The pitching took place around a week before the final
+submission.  Around 10 to 15 teams opted in this year.
+
+A total of four prizes were given out to participating teams, three of which
+were determined by the external client and course staff.  The fourth prize was
+a People's Choice Award, determined by voting students.
 
 ## Preamble
 This is a product of a project as part of the course SOFTENG 206, a required
