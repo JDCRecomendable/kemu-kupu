@@ -2,19 +2,20 @@
 ## Acknowledgements
 This project would not have been made without the hard work, dedication and
 efforts of Nasser Giacaman, Catherine Watson, Valerio Terragni and all other
-lecturers and tutors who were part of running the SOFTENG 206 course of the
-University of Auckland in 2021.
+lecturers and tutors who were involved in the running of the SOFTENG 206
+course at the University of Auckland in 2021.
 
-I would also like to express my gratitude to group members Julie Kim and Juwon
-Jung for their strong dedication, passion and hard work.  Without you, this
-project would not have been possible.  You have been dedicated to our numerous
-late-night ~~pair~~ _trio_-programming sessions, without fail, sacrificing
-sleep for project completion and quality.  You always show up on-time for our
-almost-daily meetings and catch-up sessions.  You never waited to seek for and
-provide assistance to one another, always jumping on Discord calls to do so.
-The diligence that we have extended to our shared goals for this project have
-paid off, earning our team First Place in our cohort of around 120 people
-(roughly 40 teams).
+I would like to express my deepest gratitude to group members Julie Kim and
+Juwon Jung for the strong dedication, passion and commitment to this
+project.  Without you, this project would not have been possible.  You had
+been dedicated to our numerous all-night _trio_-programming sessions, without
+fail, sacrificing sleep for project completion and quality.  You had always
+shown up on-time for our almost-daily meetings and catch-up sessions.  You
+never waited to seek for and provide assistance to one another, always jumping
+on to Discord calls as soon as time permits.  The diligence that we had
+exhibited towards our common goals and aspirations for this project has paid
+off, earning our team First Place in our cohort of around 120 people (roughly
+40 teams).
 
 ## Preamble
 This is a product of a project as part of the course SOFTENG 206, a required
