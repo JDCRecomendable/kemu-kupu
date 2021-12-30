@@ -21,12 +21,21 @@ This project has earned recognition in the SOFTENG 206 course in Semester 2,
 2021 by gaining First Place.
 
 In this year, around 120 students were divided into groups of three (with one
-group having two members), resulting in roughly 40 teams.  Each team were to go
-go through two "beta" stages and multiple Q&A sessions with the lecturers
-acting as clients, before the final submission. Teams can opt for the
-competition, which involved pitching to an external client, the course staff
-and students.  The pitching took place around a week before the final
-submission.  Around 10 to 15 teams opted in this year.
+group having two members), resulting in roughly 40 teams.  Each team were to
+build a Māori spelling app ("Kēmu Kupu") for an age group from a defined set
+from the course.  The course defined a minimum set of parameters to be
+fulfilled, but it was up to each team to extend the minimum requirements and
+add enhancements to the final product as they see fit, particularly refining
+their software product for their chosen age group.  Teams went through two
+"beta" stages and multiple Q&A sessions with the lecturers acting as clients
+to help them shape their product and steer their project direction, before
+the final submission.
+
+Teams can participate in an optional competition conducted as part of this
+course.  The competition involved pitching the final software product produced
+by each team as a result of undertaking this project to an external client,
+the course staff and students.  The pitching took place around a week
+before the final submission.  Around 10 to 15 teams opted in this year.
 
 A total of four prizes were given out to participating teams, three of which
 were determined by the external client and course staff.  The fourth prize was
