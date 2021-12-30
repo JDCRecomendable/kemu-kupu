@@ -1,4 +1,21 @@
 # Kēmu Kupu
+## Acknowledgements
+This project would not have been made without the hard work, dedication and
+efforts of Nasser Giacaman, Catherine Watson, Valerio Terragni and all other
+lecturers and tutors who were part of running the SOFTENG 206 course of the
+University of Auckland in 2021.
+
+I would also like to express my gratitude to group members Julie Kim and Juwon
+Jung for their strong dedication, passion and hard work.  Without you, this
+project would not have been possible.  You have been dedicated to our numerous
+late-night ~~pair~~ _trio_-programming sessions, without fail, sacrificing
+sleep for project completion and quality.  You always show up on-time for our
+almost-daily meetings and catch-up sessions.  You never waited to seek for and
+provide assistance to one another, always jumping on Discord calls to do so.
+The diligence that we have extended to our shared goals for this project have
+paid off, earning our team First Place in our cohort of around 120 people
+(roughly 40 teams).
+
 ## Preamble
 This is a product of a project as part of the course SOFTENG 206, a required
 course for Software Engineering Part II at the University of Auckland as of the
