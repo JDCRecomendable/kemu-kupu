@@ -9,12 +9,12 @@ I would like to express my deepest gratitude to group members Julie Kim and
 Juwon Jung for the strong dedication, passion and commitment to this
 project.  Without you, this project would not have been possible.  You had
 been dedicated to our numerous all-night _trio_-programming sessions, without
-fail, sacrificing sleep for project completion and quality.  You had always
-shown up on-time for our almost-daily meetings and catch-up sessions.  You
-never waited to seek for and provide assistance to one another, always jumping
-on to Discord calls as soon as time permits.  The diligence that we had
-exhibited towards our common goals and aspirations for this project has paid
-off, earning our team First Place in our cohort of around 120 people.
+fail, dedicated to project completion and quality.  You had always shown up
+on-time for our almost-daily meetings and catch-up sessions.  You never waited
+to seek for and provide assistance to one another, always jumping on to
+Discord calls as soon as time permits.  The diligence that we had exhibited
+towards our common goals and aspirations for this project has paid off,
+earning our team First Place in our cohort of around 120 people.
 
 ## Prize
 This project has earned recognition in the SOFTENG 206 course in Semester 2,
@@ -39,7 +39,7 @@ before the final submission.  Around 10 to 15 teams opted in this year.
 
 A total of four prizes were given out to participating teams, three of which
 were determined by the external client and course staff.  The fourth prize was
-a People's Choice Award, determined by voting students.
+determined by voting students.
 
 ## Preamble
 This is a product of a project as part of the course SOFTENG 206, a required
